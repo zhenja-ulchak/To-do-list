@@ -1,0 +1,40 @@
+body {
+    height: 100vh;
+    background: blueviolet;
+    margin: 0 auto;
+    padding-top: 100px;
+}
+
+.wrap {
+    background: rgb(90, 112, 128);
+    width: 250px;
+    padding: 200px;
+    height: 500px;
+}
+
+.h1 {
+    text-transform: uppercase;
+    color: black;
+    text-align: center;
+    padding: 20px;
+}
+
+.ul {
+    padding: 50px;
+    list-style: none;
+}
+
+#result {
+    margin-bottom: 50px;
+}
+
+.btn {
+    padding: 12px 15px;
+    background: brown;
+    color: black;
+    margin-left: 50px;
+}
+
+.li__active {
+    background: black;
+}
